@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# media and generated transcripts
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.opus
+*.wma
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.3gp
+*.srt
+*.vtt
+*.timestamps.txt
+*.part
